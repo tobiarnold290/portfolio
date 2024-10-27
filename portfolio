@@ -1,0 +1,87 @@
+{
+  "ownerId": "8db242f00d734c50a8bd1fb36c09d63e",
+  "lastUpdateBy": null,
+  "createdDate": 1730040355026,
+  "id": "69f94d60dd604245811cdb1f74db0ba8",
+  "@version": 4,
+  "name": "Desktop - 1 - PROJECT FREEDOM",
+  "modelId": "4a20dc82d2324f1badbb88e0a6c53827",
+  "published": "draft",
+  "meta": {
+    "vcpfigmaSelectionUUID": "8a7c7290-ffe6-458b-a7c5-08ba80668835",
+    "vcpImportId": "vcp-71b626ecb2734466b6933bd9c7506c19",
+    "importSource": "figma",
+    "fromFigma": true,
+    "figmaAirJsonDetails": {
+      "width": 1440
+    },
+    "kind": "component",
+    "lastPreviewUrl": "https://www.builder.my?builder.space=8db242f00d734c50a8bd1fb36c09d63e&builder.user.permissions=read%2Ccreate%2Cpublish%2CeditCode%2CeditDesigns%2Cadmin%2CeditLayouts%2CeditLayers&builder.user.role.name=Admin&builder.user.role.id=admin&builder.cachebust=true&builder.preview=figma-imports&builder.noCache=true&builder.allowTextEdit=true&__builder_editing__=true&builder.overrides.figma-imports=69f94d60dd604245811cdb1f74db0ba8&builder.overrides.69f94d60dd604245811cdb1f74db0ba8=69f94d60dd604245811cdb1f74db0ba8",
+    "hasLinks": false
+  },
+  "priority": -2,
+  "query": [],
+  "data": {
+    "cssCode": "builder-component { max-width: none !important; }",
+    "customFonts": [
+      {
+        "category": "sans-serif",
+        "menu": "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5GxP.ttf",
+        "version": "v30",
+        "kind": "webfonts#webfont",
+        "files": {
+          "100": "https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgWxPKTM1K9nz.ttf",
+          "300": "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAx05IsDqlA.ttf",
+          "500": "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAx05IsDqlA.ttf",
+          "700": "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAx05IsDqlA.ttf",
+          "900": "https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAx05IsDqlA.ttf",
+          "regular": "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5WZLCzYlKw.ttf",
+          "500italic": "https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ABc9AMX6lJBP.ttf",
+          "300italic": "https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjARc9AMX6lJBP.ttf",
+          "100italic": "https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrIzcXLsnzjYk.ttf",
+          "italic": "https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu52xPKTM1K9nz.ttf",
+          "900italic": "https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBBc9AMX6lJBP.ttf",
+          "700italic": "https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBhc9AMX6lJBP.ttf"
+        },
+        "subsets": [
+          "cyrillic",
+          "cyrillic-ext",
+          "greek",
+          "greek-ext",
+          "latin",
+          "latin-ext",
+          "vietnamese"
+        ],
+        "lastModified": "2022-09-22",
+        "variants": [
+          "100",
+          "100italic",
+          "300",
+          "300italic",
+          "regular",
+          "italic",
+          "500",
+          "500italic",
+          "700",
+          "700italic",
+          "900",
+          "900italic"
+        ],
+        "family": "Roboto"
+      }
+    ],
+    "blocks": [
+      "/* @ref:block:builder-163c3058ac27a794a6ed5c48cf6c65fc */"
+    ]
+  },
+  "metrics": {
+    "clicks": 0,
+    "impressions": 0
+  },
+  "variations": {},
+  "lastUpdated": 1730040362201,
+  "testRatio": 1,
+  "createdBy": "s9iCIuniVPaKnRmXKErOISdzgD73",
+  "lastUpdatedBy": "s9iCIuniVPaKnRmXKErOISdzgD73",
+  "folders": []
+}
